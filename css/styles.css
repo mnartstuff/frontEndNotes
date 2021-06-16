@@ -1,6 +1,7 @@
 .title {
     font-size: 3.5rem;
     padding: 1.5rem 0;
+    text-align: center;
 }
 
 ul {
@@ -8,3 +9,16 @@ ul {
     list-style:none;
     line-height: 2rem;
 }
+
+h1 {
+    color: #126E82;
+}
+
+.row {
+    margin: 25px 0;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: #D8E3E7;
+}
+
+/* COLOR Pallate: https://colorhunt.co/palette/d8e3e751c4d3126e82132c33 */
